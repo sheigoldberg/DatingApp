@@ -1,0 +1,14 @@
+Starting the API
+dotnet run
+
+Quick Fix Shortcut: Ctrl + .
+
+API Controllers
+
+AJAX
+Asynchronous programming will make our code scalable
+https://en.wikipedia.org/wiki/Ajax_(programming)
+Methods must be async and return await
+
+appsettings.json file in gitignore so that API keys etc are not pushed to git repository.  Safe place to store API keys
+
